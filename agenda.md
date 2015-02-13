@@ -6,7 +6,7 @@
 - Logistics based on feedback and past weeks
   - What you should have done by Monday/Thursday
   - We will have the repo up earlier
-- 
+- Team formation
 
 ### Thursday
 - Check in on homework
