@@ -6,6 +6,7 @@
 - What’s the difference between a library and a framework?
 - What languages have frameworks?
 
+### Resources
 - Read “what is a framework” description on the Odin project.
 - Read the What is Ruby on Rails 
 - Do the CodeLearn course, Module 1
