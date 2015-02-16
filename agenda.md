@@ -1,4 +1,5 @@
 ### Monday
+- Why are you here?
 - What we have covered so far
 - Why use a framework?
 - Why use Rails?
