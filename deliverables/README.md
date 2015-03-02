@@ -16,7 +16,7 @@
 
 ##### Project
 - blogger GitHub repo: 
-- 
+- https://github.com/jamfinn/jumpstartbloggermaybe.git
 - heroku blogger app link:
 - https://calm-mesa-6777.herokuapp.com/
 
